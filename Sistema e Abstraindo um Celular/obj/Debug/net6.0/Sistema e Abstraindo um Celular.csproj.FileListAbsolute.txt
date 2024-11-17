@@ -1,0 +1,15 @@
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/bin/Debug/net6.0/Sistema e Abstraindo um Celular
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/bin/Debug/net6.0/Sistema e Abstraindo um Celular.deps.json
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/bin/Debug/net6.0/Sistema e Abstraindo um Celular.runtimeconfig.json
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/bin/Debug/net6.0/Sistema e Abstraindo um Celular.dll
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/bin/Debug/net6.0/Sistema e Abstraindo um Celular.pdb
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.csproj.AssemblyReference.cache
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.AssemblyInfoInputs.cache
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.AssemblyInfo.cs
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.csproj.CoreCompileInputs.cache
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.dll
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/refint/Sistema e Abstraindo um Celular.dll
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.pdb
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/Sistema e Abstraindo um Celular.genruntimeconfig.cache
+/home/esdras/RiderProjects/Sistema e Abstraindo um Celular/Sistema e Abstraindo um Celular/obj/Debug/net6.0/ref/Sistema e Abstraindo um Celular.dll

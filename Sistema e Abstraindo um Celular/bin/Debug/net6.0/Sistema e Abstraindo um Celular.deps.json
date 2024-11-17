@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema e Abstraindo um Celular/1.0.0": {
+        "runtime": {
+          "Sistema e Abstraindo um Celular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema e Abstraindo um Celular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
